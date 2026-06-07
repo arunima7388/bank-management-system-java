@@ -41,4 +41,4 @@ This is a desktop-based Bank Management System developed using Java. It simulate
 - Add online banking features
 
 ## 👩‍💻 Author
-Your Name
+Arunima Mishra
